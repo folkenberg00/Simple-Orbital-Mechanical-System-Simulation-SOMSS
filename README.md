@@ -9,7 +9,7 @@
 <ul>
   <li><a href="https://numpy.org/doc/stable/user/whatisnumpy.html">NumPy </a>- n-dimensional arrays of homogeneous data types</li>
   <li><a href="https://matplotlib.org/stable/users/index">matplotlib </a>- 2D Plotting</li>
-  <li><a https://docs.python.org/3/library/tkinter.html">tkinter</a>- Graphical User Interface (GUI) Programming</li>
+  <li><a href="https://docs.python.org/3/library/tkinter.html">tkinter</a>- Graphical User Interface (GUI) Programming</li>
   
 </ul>
 <h3 align="left">Attached Files</h3>
